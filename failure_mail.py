@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 host_address="***********@gmail.com"
 host_pass="**********"
 guest_address="************@gmail.com"
-subject="Congratulations model trained Successfully"
+subject="Something went wrong with container"
 content="Failed"
 message = MIMEMultipart()
 message['From']=host_address
